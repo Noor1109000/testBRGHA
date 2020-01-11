@@ -1,0 +1,11 @@
+body{
+	background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+
+}
+
+section#wrapper {
+    background: red;
+}
+.title{
+	font-size: 28px;
+}
